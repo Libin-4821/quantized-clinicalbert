@@ -19,7 +19,7 @@ This project uses a synthetic dataset of clinical text descriptions for training
 
 * Compatible with Google Colab for accessible deployment.
 
-## installation 
+## Installation 
 
 ```bash
   # Clone the repository
