@@ -70,11 +70,11 @@ Predicted disease: COPD
 ```
 ## Demo
 
- ![Image](https://github.com/user-attachments/assets/1e7a4b06-0750-40b5-b666-0058e40b37c2)
+![Image](https://github.com/user-attachments/assets/57c00e81-e26f-4c2e-bbe1-8adae9d74bd7)
 
-![Image](https://github.com/user-attachments/assets/ec1e7c57-c767-4b88-ba5f-5e905acb9beb)
+![Image](https://github.com/user-attachments/assets/ccf19d57-a0d4-4fe5-88a7-d30920b0416f)
 
-![Image](https://github.com/user-attachments/assets/f841a2c6-bca3-4dee-b2c3-6abb860b1a3a)
+![Image](https://github.com/user-attachments/assets/bf11a309-ab09-4229-ac8e-ed2213fa52ca)
 
 ## Limitations
 
