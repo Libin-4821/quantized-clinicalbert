@@ -69,7 +69,13 @@ Predicted disease: COPD
 
 ```
 ## Demo
- 
+
+ ![Image](https://github.com/user-attachments/assets/1e7a4b06-0750-40b5-b666-0058e40b37c2)
+
+![Image](https://github.com/user-attachments/assets/ec1e7c57-c767-4b88-ba5f-5e905acb9beb)
+
+![Image](https://github.com/user-attachments/assets/f841a2c6-bca3-4dee-b2c3-6abb860b1a3a)
+
 ## Limitations
 
 * This model should not replace professional medical diagnosis.
