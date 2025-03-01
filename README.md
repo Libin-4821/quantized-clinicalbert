@@ -18,9 +18,8 @@ This project uses a synthetic dataset of clinical text descriptions for training
 * Streamlit web interface for easy interaction.
 
 * Compatible with Google Colab for accessible deployment.
-## Installation
 
-Install my-project with npm
+## installation 
 
 ```bash
   # Clone the repository
