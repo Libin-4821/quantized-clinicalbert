@@ -23,9 +23,9 @@ This project uses a synthetic dataset of clinical text descriptions for training
 
 ```bash
   # Clone the repository
- git clone https://github.com/john-osborne-j  quantized-clinicalbert.git
+git clone https://github.com/john-osborne-j  quantized-clinicalbert.git
  
-  cd quantized-clinicalbert
+cd quantized-clinicalbert
 ```
     
 ## Requirements
