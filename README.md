@@ -48,8 +48,8 @@ The model was trained by first fine-tuning ClinicalBERT on a dataset of chest-re
 
 ## Authors
 
-*[@john-osborne-j](https://github.com/john-osborne-j) 
-*[@Libin-4821](https://github.com/Libin-4821)
+* [@john-osborne-j](https://github.com/john-osborne-j) 😁
+* [@Libin-4821](https://github.com/Libin-4821) 😎
 
 
 ## Usage/Examples
