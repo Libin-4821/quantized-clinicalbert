@@ -15,14 +15,14 @@ This project uses a synthetic dataset of clinical text descriptions for training
 
 * Disease classification from symptom descriptions.
 
-* Streamlit web interface for easy interaction.
+* Flask (Python) web interface for easy interaction.
 
 * Compatible with Google Colab for accessible deployment.
 
 ## Installation 
 
 ```bash
-  # Clone the repository
+# Clone the repository
 git clone https://github.com/john-osborne-j  quantized-clinicalbert.git
  
 cd quantized-clinicalbert
@@ -48,8 +48,8 @@ The model was trained by first fine-tuning ClinicalBERT on a dataset of chest-re
 
 ## Authors
 
- * [@john-osborne-j](https://github.com/john-osborne-j) 
-* [@Libin-4821](https://github.com/Libin-4821)
+*[@john-osborne-j](https://github.com/john-osborne-j) 
+*[@Libin-4821](https://github.com/Libin-4821)
 
 
 ## Usage/Examples
